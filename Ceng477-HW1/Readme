@@ -1,1 +1,5 @@
+Ray Tracing Project
 
+make clean to cleaning old files 
+make raytracer to build project
+./raytracer input_file
